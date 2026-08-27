@@ -5,9 +5,9 @@ node_modules/
 # Build outputs
 dist/
 .astro/
+.vercel/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -29,7 +29,10 @@ npm-debug.log*
 /tmp/
 *.tmp
 
-# Large files (keep in source-assets only)
+# Large design files (keep in source-assets only)
 *.psd
 *.ai
 *.eps
+
+# Coverage
+coverage/

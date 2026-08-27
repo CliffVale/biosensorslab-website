@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# NOTE: update when the site moves to biosensorslab.iitd.ac.in
+Sitemap: https://cliffvale.github.io/biosensorslab/sitemap-index.xml
